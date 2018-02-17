@@ -4,6 +4,15 @@ A Movie Recommender Project based on User Based Collaborative Filtering
 ## Description
 A detailed description is provided in the 'report.pdf' file.
 
+## Developers
+
+1) Adabala Naren Vamsi -	https://github.com/NarenVamsi
+2) Kasaragadda Anil Kumar -  https://github.com/anilkumar1998
+3) Lade Pavan Kalyan - https://github.com/pavanladi98
+4) Tellakula Satya Krishna - https://github.com/Tellakulasatya
+5) Chitikina Pavan Sai - https://github.com/ChitikinaPavanSai
+6) Nistala Surya Devaraj - https://github.com/Suryadevaraj
+
 ## Built With
 	Flask - Web Framework
 	MongoDB - Database
