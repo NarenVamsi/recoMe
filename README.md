@@ -1,5 +1,5 @@
 # recoMe
-A Movie Recommender Project based on User Based Colloborative Filtering
+A Movie Recommender Project based on User Based Collaborative Filtering
 
 ## Description
 A detailed description is provided in the 'report.pdf' file.
